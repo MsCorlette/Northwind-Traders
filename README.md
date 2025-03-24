@@ -4,7 +4,9 @@ Analyzed customer and product sales data with excel and power bi for northwind t
 
 ### Datasource: kaggle
 
-### Dataset: https://www.kaggle.com/datasets/ramyhafez/northwind-traders
+### Dataset: https://www.kaggle.com/datasets/ramyhafez/northwind-traders   
+
+https://github.com/MsCorlette/Northwind-Traders/blob/main/Northwind%20Traders%20(github).pdf 
 
 ### Data Cleaning Process: 
 
