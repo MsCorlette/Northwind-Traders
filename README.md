@@ -2,9 +2,9 @@
 
 Analyzed customer and product sales data with excel and power bi for northwind traders, a fictional company to develop data driven insights to inform business decisions.
 
-### Datasource:
+### Datasource: kaggle
 
-### Dataset:
+### Dataset: https://www.kaggle.com/datasets/ramyhafez/northwind-traders
 
 ### Data Cleaning Process: 
 
