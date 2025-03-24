@@ -6,7 +6,7 @@ Analyzed customer and product sales data with excel and power bi for northwind t
 
 ### Dataset: https://www.kaggle.com/datasets/ramyhafez/northwind-traders   
 
-
+![image_alt](https://github.com/MsCorlette/Northwind-Traders/blob/c10e4e1139f152f1a383f30bb68ffe3b9362d723/Northwind%20Traders%20(github).pdf)
 
 ### Data Cleaning Process: 
 
