@@ -12,7 +12,11 @@ Data Cleaning: Excel/Power query
 
 Data Visualisation: Power BI
 
-![image_alt](https://github.com/MsCorlette/Northwind-Traders/blob/c10e4e1139f152f1a383f30bb68ffe3b9362d723/Northwind%20Traders%20(github).pdf)
+Dashboard Report
+
+View the full Dashboard report here:
+
+https://github.com/MsCorlette/Northwind-Traders/blob/main/Northwind%20Traders%20(github).pdf
 
 ### Data Cleaning Process: 
 
